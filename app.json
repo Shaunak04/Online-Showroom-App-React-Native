@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "demoProject",
+    "slug": "demoProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo3.png",
+    "splash": {
+      "image": "./assets/logo3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#162232"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
